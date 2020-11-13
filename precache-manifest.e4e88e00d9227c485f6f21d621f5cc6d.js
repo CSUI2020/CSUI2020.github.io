@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea747e9e04cbbb322562",
-    "url": "/csui2020/css/app.8d50f952.css"
+    "revision": "c9c6e2e73a80d6ce9a0f",
+    "url": "/csui2020/css/app.c8b80a6f.css"
   },
   {
     "revision": "f793ba4edbe872b5d84ccb9ac778b802",
@@ -36,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/csui2020/icons/highschool.svg"
   },
   {
-    "revision": "3632d39e376da08504558625a0c49e2c",
+    "revision": "51fcd194ed2b24eb4ea529059ee1da05",
     "url": "/csui2020/index.html"
   },
   {
-    "revision": "ea747e9e04cbbb322562",
-    "url": "/csui2020/js/app.479fdb99.js"
+    "revision": "c9c6e2e73a80d6ce9a0f",
+    "url": "/csui2020/js/app.2733c94c.js"
   },
   {
     "revision": "8286e5f5276bd8d2a2c0",
@@ -1872,6 +1872,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/csui2020/static/svg/Introduction Text.svg"
   },
   {
+    "revision": "12fe7f5fbd84b710e4a1f18bf28ce396",
+    "url": "/csui2020/static/svg/Middle Leftish Graphic.svg"
+  },
+  {
     "revision": "4fad8f517425cbd406ce5d02760d6dc5",
     "url": "/csui2020/static/svg/Profile Circle.svg"
   },
@@ -1896,11 +1900,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/csui2020/static/svg/background-3.svg"
   },
   {
+    "revision": "26c04eb208e7a04c38df052f165c6784",
+    "url": "/csui2020/static/svg/bottombottomleft.svg"
+  },
+  {
+    "revision": "9ced1a65c457180187a809ee9506d1d3",
+    "url": "/csui2020/static/svg/bottomleft.svg"
+  },
+  {
+    "revision": "e80a3eaa4d15999f57a355a9993f350c",
+    "url": "/csui2020/static/svg/bottomright.svg"
+  },
+  {
     "revision": "da7482baaf478a68c7c6295890770f1c",
     "url": "/csui2020/static/svg/loading.webp"
   },
   {
     "revision": "c97fedd4c27582d6464cad79c2f77f34",
     "url": "/csui2020/static/svg/logo.svg"
+  },
+  {
+    "revision": "2ef20729b53bf6d9fd84fa5a55e90dc5",
+    "url": "/csui2020/static/svg/meetthefam.svg"
+  },
+  {
+    "revision": "3cee004b7afd4f9817d50a9f72792035",
+    "url": "/csui2020/static/svg/topleft.svg"
+  },
+  {
+    "revision": "0799216945b0e1b8bf54f9382d57fb86",
+    "url": "/csui2020/static/svg/topright.svg"
   }
 ]);
