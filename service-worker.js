@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/#/precache-manifest.a516736ac16a3fe0b43863175dc54006.js"
+  "/precache-manifest.43991b1f1232deccb640c944d7f8b8f7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "website-angkatan"});
