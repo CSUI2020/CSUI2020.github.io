@@ -1,19 +1,51 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f33a4ceeb7669572032",
-    "url": "/csui2020/css/app.01853f1b.css"
+    "revision": "18871286b5b9c00b92b0",
+    "url": "/csui2020/css/app.18b06d97.css"
   },
   {
-    "revision": "87c0a410d5689ab60018e6a69fa20d95",
+    "revision": "f793ba4edbe872b5d84ccb9ac778b802",
+    "url": "/csui2020/icons/Birthday Icon.svg"
+  },
+  {
+    "revision": "9e716aa1f2ceab173b659074043bf91e",
+    "url": "/csui2020/icons/High School Female Icon.svg"
+  },
+  {
+    "revision": "b892895bb31d9dbd2a7db54fc5dd4c6d",
+    "url": "/csui2020/icons/Hobbies Icon.svg"
+  },
+  {
+    "revision": "1fd6e9c77f5ceefb36a3bdd977a0b22b",
+    "url": "/csui2020/icons/Instagram Icon.svg"
+  },
+  {
+    "revision": "96041fb2ea45d1743ac6c760d326b94a",
+    "url": "/csui2020/icons/Line Icon.svg"
+  },
+  {
+    "revision": "011a07a83f2296b05d73d846dc22fe4a",
+    "url": "/csui2020/icons/Search Icon.svg"
+  },
+  {
+    "revision": "b5a745625e86a99dfdaa35b58cd5b070",
+    "url": "/csui2020/icons/WhatsApp Icon.svg"
+  },
+  {
+    "revision": "c1ef04274bc968c6bf5e90498876e184",
+    "url": "/csui2020/icons/highschool.svg"
+  },
+  {
+    "revision": "cae44372f04941ad8dedbfeec8960b30",
     "url": "/csui2020/index.html"
   },
   {
-    "revision": "5f33a4ceeb7669572032",
-    "url": "/csui2020/js/app.14f66942.js"
+    "revision": "18871286b5b9c00b92b0",
+    "url": "/csui2020/js/app.4dbd25b5.js"
   },
   {
-    "revision": "a09d39a5ab6755b225b3",
-    "url": "/csui2020/js/chunk-vendors.3e437aa8.js"
+    "revision": "8286e5f5276bd8d2a2c0",
+    "url": "/csui2020/js/chunk-vendors.1a0f4426.js"
   },
   {
     "revision": "77a263662158acf16c588396f24e18b8",
@@ -30,6 +62,38 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d41d8cd98f00b204e9800998ecf8427e",
     "url": "/csui2020/static/css/typography.css"
+  },
+  {
+    "revision": "9e716aa1f2ceab173b659074043bf91e",
+    "url": "/csui2020/static/icons/High School Female Icon.svg"
+  },
+  {
+    "revision": "1fd6e9c77f5ceefb36a3bdd977a0b22b",
+    "url": "/csui2020/static/icons/Instagram Icon.svg"
+  },
+  {
+    "revision": "96041fb2ea45d1743ac6c760d326b94a",
+    "url": "/csui2020/static/icons/Line Icon.svg"
+  },
+  {
+    "revision": "011a07a83f2296b05d73d846dc22fe4a",
+    "url": "/csui2020/static/icons/Search Icon.svg"
+  },
+  {
+    "revision": "b5a745625e86a99dfdaa35b58cd5b070",
+    "url": "/csui2020/static/icons/WhatsApp Icon.svg"
+  },
+  {
+    "revision": "f793ba4edbe872b5d84ccb9ac778b802",
+    "url": "/csui2020/static/icons/birthday.svg"
+  },
+  {
+    "revision": "c1ef04274bc968c6bf5e90498876e184",
+    "url": "/csui2020/static/icons/highschool.svg"
+  },
+  {
+    "revision": "b892895bb31d9dbd2a7db54fc5dd4c6d",
+    "url": "/csui2020/static/icons/hobbies.svg"
   },
   {
     "revision": "16c675a37bad6e3d871ac6443225891e",
@@ -1048,7 +1112,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/csui2020/static/img/buku_angkatan/MT17.jpg"
   },
   {
-    "revision": "a34515a8ace3b26e5c07da0c4252f8ce",
+    "revision": "708e79c0f552c1b985548ffc52799df8",
     "url": "/csui2020/static/img/buku_angkatan/MT18.jpg"
   },
   {
@@ -1772,12 +1836,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/csui2020/static/img/buku_angkatan/ZN55.jpg"
   },
   {
+    "revision": "97dabd9d2b9df65be07f0d914dda6fc5",
+    "url": "/csui2020/static/img/buku_angkatan/convert.bat"
+  },
+  {
     "revision": "2193acf76b9910a9b371206f0694bd53",
     "url": "/csui2020/static/img/buku_angkatan/convert.ipynb"
   },
   {
-    "revision": "ecd82812e14055fd5a7dad67b56b1b9d",
+    "revision": "8461665b3171aef0905109970ed8794a",
+    "url": "/csui2020/static/json/ilkom.json"
+  },
+  {
+    "revision": "a1207d50df11cc3d8274ff2799653dbb",
+    "url": "/csui2020/static/json/ilkom_alphabetical.json"
+  },
+  {
+    "revision": "c2bded2362606867df8833cd819bdc3d",
+    "url": "/csui2020/static/json/insys.json"
+  },
+  {
+    "revision": "6a7606b12c59dbbea4de0c8f54bd0957",
+    "url": "/csui2020/static/json/insys_alphabetical.json"
+  },
+  {
+    "revision": "15eef14f9750df7234333713fdcfa113",
     "url": "/csui2020/static/json/keseluruhan.json"
+  },
+  {
+    "revision": "edac52411a8ad58ed713cd38748da56c",
+    "url": "/csui2020/static/json/keseluruhan_alphabetical.json"
   },
   {
     "revision": "f07a2bb363a4ee55ab212f855e912668",
