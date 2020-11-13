@@ -1,10 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a259d890078ed75591a9d0e8ded87e6c",
-    "url": "/csui2020/404.html"
-  },
-  {
-    "revision": "a1c01667da6f1cad33f5",
+    "revision": "2cea03ba16a95ee10254",
     "url": "/csui2020/css/app.0e777407.css"
   },
   {
@@ -40,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/csui2020/icons/highschool.svg"
   },
   {
-    "revision": "0e36556db96610b03ead426e3d5da07e",
+    "revision": "40972446a3acf785bc3b88be77c82fed",
     "url": "/csui2020/index.html"
   },
   {
-    "revision": "a1c01667da6f1cad33f5",
-    "url": "/csui2020/js/app.0f7f1364.js"
+    "revision": "2cea03ba16a95ee10254",
+    "url": "/csui2020/js/app.bd4d15a8.js"
   },
   {
     "revision": "8286e5f5276bd8d2a2c0",
