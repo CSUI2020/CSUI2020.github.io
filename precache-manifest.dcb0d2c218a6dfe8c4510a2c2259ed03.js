@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/404.html"
   },
   {
-    "revision": "d61a56e6ee958ab5c31d",
-    "url": "/css/app.f1738b3b.css"
+    "revision": "df894387bb2dc1bc5529",
+    "url": "/css/app.2b900385.css"
   },
   {
     "revision": "1ba2ae710d927f13d483fd5d1e548c9b",
@@ -104,12 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "86a66a34f2accbce6abbb9883a8709e3",
+    "revision": "da6978983c18f6f4500111432c1fe01a",
     "url": "/index.html"
   },
   {
-    "revision": "d61a56e6ee958ab5c31d",
-    "url": "/js/app.72aef302.js"
+    "revision": "df894387bb2dc1bc5529",
+    "url": "/js/app.88ef480f.js"
   },
   {
     "revision": "80434be5077d110bde02",
@@ -1912,11 +1912,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/img/buku_angkatan/convert.ipynb"
   },
   {
-    "revision": "68a5b606acb05aca468e4596240dcc83",
+    "revision": "783c85f6b2ab9f5e15464ed47c31d159",
     "url": "/static/json/ilkom.json"
   },
   {
-    "revision": "e6630488ebd6b2a4168113f4c635d264",
+    "revision": "d221695c848a5e5861c89c5ae15770aa",
     "url": "/static/json/ilkom_alphabetical.json"
   },
   {
@@ -1928,11 +1928,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/json/insys_alphabetical.json"
   },
   {
-    "revision": "e2fef378a7c5f00eec061babfcb7b5a6",
+    "revision": "59ab91e0b313180dc9ac4df04215efb7",
     "url": "/static/json/keseluruhan.json"
   },
   {
-    "revision": "6e8b6011bd7448b7a5817ecfc3e5db61",
+    "revision": "32b53ab48a9ba2584b323ece50353591",
     "url": "/static/json/keseluruhan_alphabetical.json"
   },
   {
@@ -1986,6 +1986,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2ef20729b53bf6d9fd84fa5a55e90dc5",
     "url": "/static/svg/meetthefam.svg"
+  },
+  {
+    "revision": "6d81df3cd5e30887a5825ca24b277b8b",
+    "url": "/static/svg/meetthefamhover.svg"
   },
   {
     "revision": "4fad8f517425cbd406ce5d02760d6dc5",
