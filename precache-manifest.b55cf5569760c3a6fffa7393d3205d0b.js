@@ -4,12 +4,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/404.html"
   },
   {
-    "revision": "df894387bb2dc1bc5529",
-    "url": "/css/app.2b900385.css"
+    "revision": "b0f8f3c13e36e878d758",
+    "url": "/css/app.6fe2d7cd.css"
   },
   {
-    "revision": "1ba2ae710d927f13d483fd5d1e548c9b",
-    "url": "/favicon.ico"
+    "revision": "e6ad9d655f1a9830fddc283e2109259a",
+    "url": "/favicon.png"
   },
   {
     "revision": "f793ba4edbe872b5d84ccb9ac778b802",
@@ -44,55 +44,55 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icons/highschool.svg"
   },
   {
-    "revision": "f130a0b70e386170cf6f011c0ca8c4f4",
+    "revision": "cbe518637d6a5038f83a75e6d1e3eed3",
     "url": "/img/icons/android-chrome-192x192.png"
   },
   {
-    "revision": "0ff1bc4d14e5c9abcacba7c600d97814",
+    "revision": "8d73f8a289ce4c224a82d178dcea5801",
     "url": "/img/icons/android-chrome-512x512.png"
   },
   {
-    "revision": "845a39478d0e2d4d5d32a092de2de250",
+    "revision": "cbe518637d6a5038f83a75e6d1e3eed3",
     "url": "/img/icons/android-chrome-maskable-192x192.png"
   },
   {
-    "revision": "2695f5feb66cdb0c6f09d0e415824cf9",
+    "revision": "8d73f8a289ce4c224a82d178dcea5801",
     "url": "/img/icons/android-chrome-maskable-512x512.png"
   },
   {
-    "revision": "936d6e411cabd71f0e627011c3f18fe2",
+    "revision": "ea41a324b9a6a30860c56abcac9adf6c",
     "url": "/img/icons/apple-touch-icon-120x120.png"
   },
   {
-    "revision": "1a034e64d80905128113e5272a5ab95e",
+    "revision": "08216893a25eb28f16eabbf43b302b4f",
     "url": "/img/icons/apple-touch-icon-152x152.png"
   },
   {
-    "revision": "c43cd371a49ee4ca17ab3a60e72bdd51",
+    "revision": "d87d2261e432aa4044eea0568e019cd4",
     "url": "/img/icons/apple-touch-icon-180x180.png"
   },
   {
-    "revision": "9a2b5c0f19de617685b7b5b42464e7db",
+    "revision": "8a0ee6ec5c18f3e8243d64e868949d2c",
     "url": "/img/icons/apple-touch-icon-60x60.png"
   },
   {
-    "revision": "af28d69d59284dd202aa55e57227b11b",
+    "revision": "95712fddd31a755713406625c36a9d92",
     "url": "/img/icons/apple-touch-icon-76x76.png"
   },
   {
-    "revision": "66830ea6be8e7e94fb55df9f7b778f2e",
+    "revision": "d87d2261e432aa4044eea0568e019cd4",
     "url": "/img/icons/apple-touch-icon.png"
   },
   {
-    "revision": "4bb1a55479d61843b89a2fdafa7849b3",
+    "revision": "746079c95562d5f697b9380230673a7f",
     "url": "/img/icons/favicon-16x16.png"
   },
   {
-    "revision": "98b614336d9a12cb3f7bedb001da6fca",
+    "revision": "746079c95562d5f697b9380230673a7f",
     "url": "/img/icons/favicon-32x32.png"
   },
   {
-    "revision": "b89032a4a5a1879f30ba05a13947f26f",
+    "revision": "f9979100df0ac1975019357a6357bb64",
     "url": "/img/icons/msapplication-icon-144x144.png"
   },
   {
@@ -104,12 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "da6978983c18f6f4500111432c1fe01a",
+    "revision": "4f72182351056b64deab70ff03153d77",
     "url": "/index.html"
   },
   {
-    "revision": "df894387bb2dc1bc5529",
-    "url": "/js/app.88ef480f.js"
+    "revision": "b0f8f3c13e36e878d758",
+    "url": "/js/app.8197dac8.js"
   },
   {
     "revision": "80434be5077d110bde02",
@@ -764,7 +764,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/img/buku_angkatan/GB05.jpg"
   },
   {
-    "revision": "f874661973956cf0e23e76c2f5778b2b",
+    "revision": "33a9a5e8ad605e6a4f7589ed68ef80bb",
     "url": "/static/img/buku_angkatan/GB06.jpg"
   },
   {
@@ -1184,7 +1184,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/img/buku_angkatan/MT18.jpg"
   },
   {
-    "revision": "f057fdfa192fdf599a7187f4793adcef",
+    "revision": "5c6fbfc65a57ce6227067583fe5add6e",
     "url": "/static/img/buku_angkatan/MT19.jpg"
   },
   {
@@ -1920,19 +1920,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/json/ilkom_alphabetical.json"
   },
   {
-    "revision": "4ac253ddee6a3a9037587705dfefbf22",
+    "revision": "8fca8d583c09d6a9835051748ea3c2d5",
     "url": "/static/json/insys.json"
   },
   {
-    "revision": "602bb3dd5c87a37af47f451da9821af6",
+    "revision": "e287d52b77c6d0e5a6faa201803f5ba1",
     "url": "/static/json/insys_alphabetical.json"
   },
   {
-    "revision": "59ab91e0b313180dc9ac4df04215efb7",
+    "revision": "275e893d306355aaea93b9ee54751d65",
     "url": "/static/json/keseluruhan.json"
   },
   {
-    "revision": "32b53ab48a9ba2584b323ece50353591",
+    "revision": "525c6f0e110d8917879b6e6f2e5be77c",
     "url": "/static/json/keseluruhan_alphabetical.json"
   },
   {
