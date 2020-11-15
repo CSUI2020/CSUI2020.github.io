@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/404.html"
   },
   {
-    "revision": "bc3c75d34ed486b283e1",
-    "url": "/css/app.f6aa9021.css"
+    "revision": "92794ae1742db0601a1d",
+    "url": "/css/app.c9564c69.css"
   },
   {
     "revision": "e6ad9d655f1a9830fddc283e2109259a",
@@ -104,19 +104,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "c001475f2b17f00c7f8a7b2357648431",
+    "revision": "335782a2aee7868018063e8b2207513b",
     "url": "/index.html"
   },
   {
-    "revision": "bc3c75d34ed486b283e1",
-    "url": "/js/app.4974d2dc.js"
+    "revision": "92794ae1742db0601a1d",
+    "url": "/js/app.20e7d7ac.js"
   },
   {
     "revision": "80434be5077d110bde02",
     "url": "/js/chunk-vendors.5b6e5eb8.js"
   },
   {
-    "revision": "77a263662158acf16c588396f24e18b8",
+    "revision": "ac8143c79610d4fe29b34272da0e3523",
     "url": "/manifest.json"
   },
   {
@@ -1912,11 +1912,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/img/buku_angkatan/convert.ipynb"
   },
   {
-    "revision": "fbbee77e6897c21f7ad25e596e4e6b3c",
+    "revision": "02357a663e07423d870b234f6900054b",
     "url": "/static/json/ilkom.json"
   },
   {
-    "revision": "bf9a89f1d48a187144ab1327ddf28643",
+    "revision": "02357a663e07423d870b234f6900054b",
     "url": "/static/json/ilkom_alphabetical.json"
   },
   {
@@ -1924,15 +1924,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/json/insys.json"
   },
   {
-    "revision": "049ada9e34fd604e77ad855b392f36e4",
+    "revision": "0775f66fc194cd2195976224a34a195a",
     "url": "/static/json/insys_alphabetical.json"
   },
   {
-    "revision": "9a5799791873a0ffc64689133cfb3860",
+    "revision": "e222676ba071f4dcd159df22591a0ed6",
     "url": "/static/json/keseluruhan.json"
   },
   {
-    "revision": "3901ff347ed2913f853643d997790c43",
+    "revision": "e222676ba071f4dcd159df22591a0ed6",
     "url": "/static/json/keseluruhan_alphabetical.json"
   },
   {
