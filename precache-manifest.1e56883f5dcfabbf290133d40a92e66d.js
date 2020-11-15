@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/404.html"
   },
   {
-    "revision": "78a4981a493a4ed5630f",
+    "revision": "c33009bac72e6e1d24c8",
     "url": "/css/app.c9564c69.css"
   },
   {
@@ -104,12 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "070bcc8f8d457744aeebca982b5f4c48",
+    "revision": "bbf9540c8340860bcd0335f0e5dea7df",
     "url": "/index.html"
   },
   {
-    "revision": "78a4981a493a4ed5630f",
-    "url": "/js/app.21a6868f.js"
+    "revision": "c33009bac72e6e1d24c8",
+    "url": "/js/app.40ddfee8.js"
   },
   {
     "revision": "80434be5077d110bde02",
@@ -1912,27 +1912,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/img/buku_angkatan/convert.ipynb"
   },
   {
-    "revision": "ba5cc727a7ace33f5402ff6087ce034f",
+    "revision": "02357a663e07423d870b234f6900054b",
     "url": "/static/json/ilkom.json"
   },
   {
-    "revision": "02357a663e07423d870b234f6900054b",
+    "revision": "ba5cc727a7ace33f5402ff6087ce034f",
     "url": "/static/json/ilkom_alphabetical.json"
   },
   {
-    "revision": "049ada9e34fd604e77ad855b392f36e4",
+    "revision": "0775f66fc194cd2195976224a34a195a",
     "url": "/static/json/insys.json"
   },
   {
-    "revision": "0775f66fc194cd2195976224a34a195a",
+    "revision": "049ada9e34fd604e77ad855b392f36e4",
     "url": "/static/json/insys_alphabetical.json"
   },
   {
-    "revision": "d16e96f8bcdd23d588dc40d2324cb365",
+    "revision": "e222676ba071f4dcd159df22591a0ed6",
     "url": "/static/json/keseluruhan.json"
   },
   {
-    "revision": "e222676ba071f4dcd159df22591a0ed6",
+    "revision": "d16e96f8bcdd23d588dc40d2324cb365",
     "url": "/static/json/keseluruhan_alphabetical.json"
   },
   {
