@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/404.html"
   },
   {
-    "revision": "3701f1f6ffb27a718e01",
-    "url": "/css/app.598c8e64.css"
+    "revision": "5b65a8b0ddf3025c2525",
+    "url": "/css/app.a84f241e.css"
   },
   {
     "revision": "e6ad9d655f1a9830fddc283e2109259a",
@@ -104,12 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "7e2db5d7e38810098424190541f4b9c3",
+    "revision": "49910b7679ec32eb876dcbbcca149bf8",
     "url": "/index.html"
   },
   {
-    "revision": "3701f1f6ffb27a718e01",
-    "url": "/js/app.b79d31ad.js"
+    "revision": "5b65a8b0ddf3025c2525",
+    "url": "/js/app.2837a021.js"
   },
   {
     "revision": "80434be5077d110bde02",
@@ -880,7 +880,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/img/buku_angkatan/GB38.jpg"
   },
   {
-    "revision": "4bb8d31b0fd47dd11bfd9031e3068437",
+    "revision": "d1bdac9ec6a53b72432c20dce2392193",
     "url": "/static/img/buku_angkatan/GB39.jpg"
   },
   {
@@ -1128,7 +1128,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/img/buku_angkatan/MT02.jpg"
   },
   {
-    "revision": "727069b594dbea17e5c9c928019c89c9",
+    "revision": "3831d0fd23c736299433233f8dc42dcf",
     "url": "/static/img/buku_angkatan/MT03.jpg"
   },
   {
@@ -1184,7 +1184,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/img/buku_angkatan/MT18.jpg"
   },
   {
-    "revision": "5c6fbfc65a57ce6227067583fe5add6e",
+    "revision": "1377abe1fa8338c78bb5d71bc1e0a82b",
     "url": "/static/img/buku_angkatan/MT19.jpg"
   },
   {
