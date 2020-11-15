@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/404.html"
   },
   {
-    "revision": "92794ae1742db0601a1d",
+    "revision": "78a4981a493a4ed5630f",
     "url": "/css/app.c9564c69.css"
   },
   {
@@ -104,12 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "335782a2aee7868018063e8b2207513b",
+    "revision": "070bcc8f8d457744aeebca982b5f4c48",
     "url": "/index.html"
   },
   {
-    "revision": "92794ae1742db0601a1d",
-    "url": "/js/app.20e7d7ac.js"
+    "revision": "78a4981a493a4ed5630f",
+    "url": "/js/app.21a6868f.js"
   },
   {
     "revision": "80434be5077d110bde02",
@@ -1912,7 +1912,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/img/buku_angkatan/convert.ipynb"
   },
   {
-    "revision": "02357a663e07423d870b234f6900054b",
+    "revision": "ba5cc727a7ace33f5402ff6087ce034f",
     "url": "/static/json/ilkom.json"
   },
   {
@@ -1920,7 +1920,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/json/ilkom_alphabetical.json"
   },
   {
-    "revision": "0775f66fc194cd2195976224a34a195a",
+    "revision": "049ada9e34fd604e77ad855b392f36e4",
     "url": "/static/json/insys.json"
   },
   {
@@ -1928,7 +1928,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/json/insys_alphabetical.json"
   },
   {
-    "revision": "e222676ba071f4dcd159df22591a0ed6",
+    "revision": "d16e96f8bcdd23d588dc40d2324cb365",
     "url": "/static/json/keseluruhan.json"
   },
   {
