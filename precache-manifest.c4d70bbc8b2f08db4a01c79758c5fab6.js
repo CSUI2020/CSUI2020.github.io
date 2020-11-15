@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/404.html"
   },
   {
-    "revision": "5b65a8b0ddf3025c2525",
-    "url": "/css/app.a84f241e.css"
+    "revision": "a070734a9f6bd0b807c8",
+    "url": "/css/app.f6aa9021.css"
   },
   {
     "revision": "e6ad9d655f1a9830fddc283e2109259a",
@@ -104,12 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "49910b7679ec32eb876dcbbcca149bf8",
+    "revision": "f8de5d09c9d213cd0c7fda1e29e95f74",
     "url": "/index.html"
   },
   {
-    "revision": "5b65a8b0ddf3025c2525",
-    "url": "/js/app.2837a021.js"
+    "revision": "a070734a9f6bd0b807c8",
+    "url": "/js/app.ef06d330.js"
   },
   {
     "revision": "80434be5077d110bde02",
@@ -1276,7 +1276,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/img/buku_angkatan/MT44.jpg"
   },
   {
-    "revision": "e03c85b62f00f61e82cbc2cb17fbd268",
+    "revision": "f6967e0ea1b15234a4dde4248cce0d13",
     "url": "/static/img/buku_angkatan/MT45.jpg"
   },
   {
@@ -1912,27 +1912,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/img/buku_angkatan/convert.ipynb"
   },
   {
-    "revision": "783c85f6b2ab9f5e15464ed47c31d159",
+    "revision": "fbbee77e6897c21f7ad25e596e4e6b3c",
     "url": "/static/json/ilkom.json"
   },
   {
-    "revision": "d221695c848a5e5861c89c5ae15770aa",
+    "revision": "bf9a89f1d48a187144ab1327ddf28643",
     "url": "/static/json/ilkom_alphabetical.json"
   },
   {
-    "revision": "8fca8d583c09d6a9835051748ea3c2d5",
+    "revision": "0775f66fc194cd2195976224a34a195a",
     "url": "/static/json/insys.json"
   },
   {
-    "revision": "e287d52b77c6d0e5a6faa201803f5ba1",
+    "revision": "049ada9e34fd604e77ad855b392f36e4",
     "url": "/static/json/insys_alphabetical.json"
   },
   {
-    "revision": "275e893d306355aaea93b9ee54751d65",
+    "revision": "9a5799791873a0ffc64689133cfb3860",
     "url": "/static/json/keseluruhan.json"
   },
   {
-    "revision": "525c6f0e110d8917879b6e6f2e5be77c",
+    "revision": "3901ff347ed2913f853643d997790c43",
     "url": "/static/json/keseluruhan_alphabetical.json"
   },
   {
