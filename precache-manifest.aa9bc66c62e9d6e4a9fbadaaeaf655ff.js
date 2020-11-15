@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/404.html"
   },
   {
-    "revision": "b0f8f3c13e36e878d758",
-    "url": "/css/app.6fe2d7cd.css"
+    "revision": "aedd4e19662d40ef4c2c",
+    "url": "/css/app.c796535b.css"
   },
   {
     "revision": "e6ad9d655f1a9830fddc283e2109259a",
@@ -104,12 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "4f72182351056b64deab70ff03153d77",
+    "revision": "fbe422a736d92992cb64a616aefe368a",
     "url": "/index.html"
   },
   {
-    "revision": "b0f8f3c13e36e878d758",
-    "url": "/js/app.8197dac8.js"
+    "revision": "aedd4e19662d40ef4c2c",
+    "url": "/js/app.0869b57f.js"
   },
   {
     "revision": "80434be5077d110bde02",
@@ -1284,7 +1284,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/img/buku_angkatan/MT46.jpg"
   },
   {
-    "revision": "7e9ce4ccf35ef75027458c5901adfb61",
+    "revision": "604b1b8b3a269ed0b280f4a2e1eba384",
     "url": "/static/img/buku_angkatan/MT47.jpg"
   },
   {
