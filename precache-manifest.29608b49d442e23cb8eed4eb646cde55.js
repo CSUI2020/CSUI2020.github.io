@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/404.html"
   },
   {
-    "revision": "42675032438354100b1a",
-    "url": "/css/app.f537bd68.css"
+    "revision": "d88e74323e222b615576",
+    "url": "/css/app.52776dfd.css"
   },
   {
     "revision": "e6ad9d655f1a9830fddc283e2109259a",
@@ -104,12 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "d0838251edb8d7dafc54d45d70039ca4",
+    "revision": "abd2cf233f8d903ae84b0779d6013ffd",
     "url": "/index.html"
   },
   {
-    "revision": "42675032438354100b1a",
-    "url": "/js/app.0774d782.js"
+    "revision": "d88e74323e222b615576",
+    "url": "/js/app.2dffe48e.js"
   },
   {
     "revision": "80434be5077d110bde02",
@@ -1972,10 +1972,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/json/keseluruhan_alphabetical.json"
   },
   {
-    "revision": "133b5c71376bc8a6303163996a5a4a35",
-    "url": "/static/svg/DAKA Logo.svg"
-  },
-  {
     "revision": "f07a2bb363a4ee55ab212f855e912668",
     "url": "/static/svg/Introduction Text.svg"
   },
@@ -2026,6 +2022,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e80a3eaa4d15999f57a355a9993f350c",
     "url": "/static/svg/bottomright.svg"
+  },
+  {
+    "revision": "4a8ab688887436d7fec438143409a249",
+    "url": "/static/svg/daka.svg"
   },
   {
     "revision": "6f1ed78482518b31f01b550e46a72c9d",
