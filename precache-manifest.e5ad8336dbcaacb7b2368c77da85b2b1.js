@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/404.html"
   },
   {
-    "revision": "6b091c0112cad37a4aeb",
-    "url": "/css/app.cf183d75.css"
+    "revision": "42675032438354100b1a",
+    "url": "/css/app.f537bd68.css"
   },
   {
     "revision": "e6ad9d655f1a9830fddc283e2109259a",
@@ -104,12 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "0968779834eed9cb58a5d06b2f149c90",
+    "revision": "d0838251edb8d7dafc54d45d70039ca4",
     "url": "/index.html"
   },
   {
-    "revision": "6b091c0112cad37a4aeb",
-    "url": "/js/app.48fd7ee2.js"
+    "revision": "42675032438354100b1a",
+    "url": "/js/app.0774d782.js"
   },
   {
     "revision": "80434be5077d110bde02",
@@ -1984,14 +1984,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/svg/Middle Leftish Graphic.svg"
   },
   {
-    "revision": "c4858270e603725a70f1c710b59a229d",
-    "url": "/static/svg/Our Story Bottom Left Graphic.svg"
-  },
-  {
-    "revision": "d691e1711e83f8ac187a61808a065e28",
-    "url": "/static/svg/Our Story Bottom Rightish Graphic.svg"
-  },
-  {
     "revision": "6e750e0c5a2d0d844b43ed249e8b82c4",
     "url": "/static/svg/Search Bar Default State.svg"
   },
@@ -2082,6 +2074,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b2ca51b5f087d7a2fe975390c2350621",
     "url": "/static/svg/special3.svg"
+  },
+  {
+    "revision": "c4858270e603725a70f1c710b59a229d",
+    "url": "/static/svg/storybottomleft.svg"
+  },
+  {
+    "revision": "d691e1711e83f8ac187a61808a065e28",
+    "url": "/static/svg/storybottomright.svg"
   },
   {
     "revision": "9b9e0a32325130711ad4214250ba3e5c",
