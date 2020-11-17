@@ -45,16 +45,16 @@
     -webkit-transform: perspective(1px) translateZ(0);
     transform: perspective(1px) translateZ(0);
     box-shadow: 0 0 0.8rem rgb(0 0 0 / 41%);
-    -webkit-transition-duration: .1s;
-    transition-duration: .1s;
+    -webkit-transition-duration: .2s;
+    transition-duration: .2s;
     -webkit-transition-property: transform;
     transition-property: transform;
-    -webkit-transition-timing-function: ease-out;
-    transition-timing-function: ease-out;
+    -webkit-transition-timing-function: ease-in-out;
+    transition-timing-function: ease-in-out;
 }
 
 .hvr-float-image:hover > div.image-card > img.profile-image {
-    transition-duration: .1s;
+    transition-duration: .2s;
     -webkit-transform: translateY(-12px);
     transform: translateY(-12px);
 }

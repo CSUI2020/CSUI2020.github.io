@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/404.html"
   },
   {
-    "revision": "3df8c93d951b66947ab6",
-    "url": "/css/app.144c24ef.css"
+    "revision": "6130f5b820c056316e50",
+    "url": "/css/app.5ad6264a.css"
   },
   {
     "revision": "e6ad9d655f1a9830fddc283e2109259a",
@@ -104,12 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "a3aba57adc9dbc5939ed389b6204937d",
+    "revision": "b2721ac97968b76c8257466ae704ebce",
     "url": "/index.html"
   },
   {
-    "revision": "3df8c93d951b66947ab6",
-    "url": "/js/app.4c334b83.js"
+    "revision": "6130f5b820c056316e50",
+    "url": "/js/app.ecd10b08.js"
   },
   {
     "revision": "80434be5077d110bde02",
@@ -128,7 +128,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/background.css"
   },
   {
-    "revision": "c58fae921171a2aa2d2ddba4532c07b4",
+    "revision": "4330e346ef19a54b436dd666e0244a33",
     "url": "/static/css/fam/animation.css"
   },
   {
@@ -136,7 +136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/fam/header.css"
   },
   {
-    "revision": "043033efcadaf09e2dd60cfd131a3357",
+    "revision": "5745ce57e5db9bf4f0ca17f5fc2753e2",
     "url": "/static/css/fam/pagination.css"
   },
   {
@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/fam/search.css"
   },
   {
-    "revision": "417380321285af512194b9299a0f2f6e",
+    "revision": "dcf4f30ed65a09e44ccc2e4f1a89a532",
     "url": "/static/css/home/animation.css"
   },
   {
@@ -1972,12 +1972,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/json/keseluruhan_alphabetical.json"
   },
   {
+    "revision": "133b5c71376bc8a6303163996a5a4a35",
+    "url": "/static/svg/DAKA Logo.svg"
+  },
+  {
     "revision": "f07a2bb363a4ee55ab212f855e912668",
     "url": "/static/svg/Introduction Text.svg"
   },
   {
     "revision": "12fe7f5fbd84b710e4a1f18bf28ce396",
     "url": "/static/svg/Middle Leftish Graphic.svg"
+  },
+  {
+    "revision": "c4858270e603725a70f1c710b59a229d",
+    "url": "/static/svg/Our Story Bottom Left Graphic.svg"
+  },
+  {
+    "revision": "d691e1711e83f8ac187a61808a065e28",
+    "url": "/static/svg/Our Story Bottom Rightish Graphic.svg"
   },
   {
     "revision": "6e750e0c5a2d0d844b43ed249e8b82c4",
@@ -2000,6 +2012,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/svg/background-3.svg"
   },
   {
+    "revision": "326380a6aa30a8e4610413947d2418cf",
+    "url": "/static/svg/bigleftblob.svg"
+  },
+  {
+    "revision": "97a1c850030825a36acda315c64e4d70",
+    "url": "/static/svg/bigrightblob.svg"
+  },
+  {
+    "revision": "9f8b6445135f407672ce9985d6955a9f",
+    "url": "/static/svg/blackcurve.svg"
+  },
+  {
     "revision": "26c04eb208e7a04c38df052f165c6784",
     "url": "/static/svg/bottombottomleft.svg"
   },
@@ -2012,6 +2036,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/svg/bottomright.svg"
   },
   {
+    "revision": "6f1ed78482518b31f01b550e46a72c9d",
+    "url": "/static/svg/leftblob.svg"
+  },
+  {
     "revision": "da7482baaf478a68c7c6295890770f1c",
     "url": "/static/svg/loading.webp"
   },
@@ -2020,16 +2048,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/svg/logo.svg"
   },
   {
-    "revision": "2ef20729b53bf6d9fd84fa5a55e90dc5",
+    "revision": "ce9d57b3c97a49865ef05784acbb9218",
     "url": "/static/svg/meetthefam.svg"
   },
   {
-    "revision": "6d81df3cd5e30887a5825ca24b277b8b",
+    "revision": "2ef20729b53bf6d9fd84fa5a55e90dc5",
+    "url": "/static/svg/meetthefam1.svg"
+  },
+  {
+    "revision": "acd5ac0bfee4a5e9b61a7a70360d233c",
     "url": "/static/svg/meetthefamhover.svg"
+  },
+  {
+    "revision": "6d81df3cd5e30887a5825ca24b277b8b",
+    "url": "/static/svg/meetthefamhover1.svg"
   },
   {
     "revision": "4fad8f517425cbd406ce5d02760d6dc5",
     "url": "/static/svg/profilecircle.svg"
+  },
+  {
+    "revision": "66d8cf9afebd48024bdcd1eeb7f9deed",
+    "url": "/static/svg/rightblob.svg"
+  },
+  {
+    "revision": "3df7f647c33100a77abb40abd8f12ceb",
+    "url": "/static/svg/special1.svg"
+  },
+  {
+    "revision": "846b04ec83a18af8fe6f8da3be5afbfb",
+    "url": "/static/svg/special2.svg"
+  },
+  {
+    "revision": "b2ca51b5f087d7a2fe975390c2350621",
+    "url": "/static/svg/special3.svg"
+  },
+  {
+    "revision": "9b9e0a32325130711ad4214250ba3e5c",
+    "url": "/static/svg/storytopright.svg"
   },
   {
     "revision": "3cee004b7afd4f9817d50a9f72792035",

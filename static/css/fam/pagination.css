@@ -1,7 +1,7 @@
 
 ul.paginate-links.large-page > li > a {
     border-radius: 1000%;
-    padding:5px 10px;/* this instead of a set width and height just change this to change how much bigger the circle is than the link*/
+    padding:5px 11px;
     margin-right: 0.1rem;
     margin-left: 0.1rem;
     text-align:center;
@@ -13,7 +13,6 @@ ul.paginate-links.large-page > li > a {
 
 ul.paginate-links.large-page > li.active > a {
     border-radius: 1000%;
-    padding:5px 10px;/* this instead of a set width and height just change this to change how much bigger the circle is than the link*/
     background:black;
     text-align:center;
     vertical-align:center;
@@ -24,7 +23,6 @@ ul.paginate-links.large-page > li.active > a {
 
 ul.paginate-links.large-page > li > a:hover {
     border-radius: 1000%;
-    padding:5px 10px;/* this instead of a set width and height just change this to change how much bigger the circle is than the link*/
     background:#696969;
     text-align:center;
     vertical-align:center;
