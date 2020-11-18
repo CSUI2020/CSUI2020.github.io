@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.1ac7739d3f9c29bc4fc769731589b9de.js"
+  "/precache-manifest.ef74a0916d6f48b473f7149a2e8193eb.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "csui-2020"});
