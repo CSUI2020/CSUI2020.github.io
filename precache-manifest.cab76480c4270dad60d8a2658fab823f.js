@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/404.html"
   },
   {
-    "revision": "47d3be8750b06e3ac9cc",
-    "url": "/css/app.deebf863.css"
+    "revision": "3b46d6d011e8d033080f",
+    "url": "/css/app.e8b1f891.css"
   },
   {
     "revision": "e6ad9d655f1a9830fddc283e2109259a",
@@ -104,12 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "92e670acac79b7d71f18e81d98123d55",
+    "revision": "ce16e6c85bcbc25f995df994e9f57012",
     "url": "/index.html"
   },
   {
-    "revision": "47d3be8750b06e3ac9cc",
-    "url": "/js/app.d005157b.js"
+    "revision": "3b46d6d011e8d033080f",
+    "url": "/js/app.4f185dcb.js"
   },
   {
     "revision": "80434be5077d110bde02",
@@ -140,7 +140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/fam/pagination.css"
   },
   {
-    "revision": "cacf1a708254da51df1a4031004a969b",
+    "revision": "8954d7d21cd8b0559df609252eda58af",
     "url": "/static/css/fam/profile.css"
   },
   {
@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/fam/search.css"
   },
   {
-    "revision": "dcf4f30ed65a09e44ccc2e4f1a89a532",
+    "revision": "bc6ce952b1dd6dc411cb396215269649",
     "url": "/static/css/home/animation.css"
   },
   {
@@ -302,6 +302,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6d81df3cd5e30887a5825ca24b277b8b",
     "url": "/static/svg/meetthefamhover1.svg"
+  },
+  {
+    "revision": "e3c6248e5f764f75dee08374c601f46d",
+    "url": "/static/svg/meettheteam.svg"
+  },
+  {
+    "revision": "739b438bb607ea730468bac827f8d35b",
+    "url": "/static/svg/meettheteamhover.svg"
   },
   {
     "revision": "4fad8f517425cbd406ce5d02760d6dc5",

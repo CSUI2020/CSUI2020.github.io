@@ -50,6 +50,17 @@ font-family: 'Inter', sans-serif;
   font-size:1.1rem;
 }
 
+.in-memory-text {
+  font-size: 1.5rem; 
+  font-weight: 200
+}
+
+.elazar {
+  font-size: 2rem; 
+  color: #fff; 
+  font-weight: 600
+}
+
 @media (max-width: 576px) { 
     .card-image {
       max-width:190px!important;
@@ -71,6 +82,16 @@ font-family: 'Inter', sans-serif;
         font-family: Inter, sans-serif;
         letter-spacing: 0px;
         font-size: 0.9rem;
+    }
+
+    .in-memory-text {
+      font-size: 1.5rem; 
+      font-weight: 200
+    }
+    .elazar {
+      font-size: 1.6rem; 
+      color: #fff; 
+      font-weight: 600
     }
 }
 
