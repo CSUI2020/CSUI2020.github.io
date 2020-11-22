@@ -196,30 +196,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/icons/line.svg"
   },
   {
-    "revision": "2b66c5665789f38731ca00fc8e59b91e",
-    "url": "/static/json/ilkom.json"
-  },
-  {
-    "revision": "1d874ab01b5925a3b1579fe3bf5b35a3",
-    "url": "/static/json/ilkom_alphabetical.json"
-  },
-  {
-    "revision": "2f03afcc9da1f631f20579a93c02c43f",
-    "url": "/static/json/insys.json"
-  },
-  {
-    "revision": "fd2cf8c428f118771352d283d410a552",
-    "url": "/static/json/insys_alphabetical.json"
-  },
-  {
-    "revision": "aa2bd19cc2823352d8f6ade101d33415",
-    "url": "/static/json/keseluruhan.json"
-  },
-  {
-    "revision": "c96a34a06cd956a259826ed89def40f8",
-    "url": "/static/json/keseluruhan_alphabetical.json"
-  },
-  {
     "revision": "f07a2bb363a4ee55ab212f855e912668",
     "url": "/static/svg/Introduction Text.svg"
   },
